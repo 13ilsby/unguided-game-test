@@ -1,2 +1,1 @@
-# unguided-game-test
-Unguided project to experiment with using python, git and vscode to create simple games.
+Text-based RPG, will seek to implement DND 5e rules
